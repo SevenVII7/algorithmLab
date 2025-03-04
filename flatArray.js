@@ -1,3 +1,4 @@
+// 陣列扁平化
 function flattenArray(arr) {
   let result = [];
 

@@ -22,4 +22,8 @@ var reversePrefix = function(word, ch) {
     return str
   }
 };
-reversePrefix('aassddabcver', 'b')
+// reversePrefix('aassddabcver', 'b')
+
+module.exports = {
+  reversePrefix
+};
